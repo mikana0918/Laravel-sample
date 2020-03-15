@@ -9,8 +9,8 @@ ref: https://qiita.com/ucan-lab/items/17c806973e69792ada99
 
 ## Features
 
-Social Authentication using Laravel Socialite
-Broadcasting using pusher/pusher-php-server
+Social Authentication using Laravel Socialite  
+Broadcasting using pusher/pusher-php-server  
 
 ## Build
 
