@@ -7,9 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-##開発について
+##About environment
 
-参照：https://qiita.com/ucan-lab/items/17c806973e69792ada99
+ref: https://qiita.com/ucan-lab/items/17c806973e69792ada99
+
+##Features
+
+Social Authentication using Laravel Socialite
+Broadcasting using pusher/pusher-php-server
 
 ## About Laravel
 
