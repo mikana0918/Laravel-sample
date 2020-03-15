@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/Users/pc-178-mbp-2001/LaravelSK/docker-laravel/.git"
+		},
+		{
+			"path": "/Users/pc-178-mbp-2001/LaravelSK/docker-laravel/.vscode"
+		},
+		{
+			"path": "/Users/pc-178-mbp-2001/LaravelSK/docker-laravel/docker"
+		},
+		{
+			"path": "/Users/pc-178-mbp-2001/LaravelSK/docker-laravel/logs"
+		},
+		{
+			"path": "/Users/pc-178-mbp-2001/LaravelSK/docker-laravel/src"
+		}
+	]
+}
